@@ -12,9 +12,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div><br><br>
 
-<div  align="center" ><img align="center" alt="dilukila" height="300" width="500" src="https://github.com/Johnnydilukila/Johnnydilukila/assets/163668319/7563cad6-1e9c-41cd-93b6-2004e6f03b8f"> <br>
-  <br>
-   ![Snake animation](https://github.com/Johnnydiluila/Johnnydilukila/blob/output/github-contribution-grid-snake.svg)
+<div  align="center" ><img align="center" alt="dilukila" height="300" width="500" src="https://github.com/Johnnydilukila/Johnnydilukila/assets/163668319/7563cad6-1e9c-41cd-93b6-2004e6f03b8f">
   </div><br><br><br><br>
   <h2>Formação</h2>
   <p>✔ Ensino médio concluido. <br>
