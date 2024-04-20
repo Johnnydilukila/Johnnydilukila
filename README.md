@@ -26,6 +26,7 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://github.com/Johnnydilukila/Johnnydilukila/assets/163668319/900c93f5-fe7c-4a21-89ad-430968659285)">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://github.com/Johnnydilukila/Johnnydilukila/assets/163668319/35c4adc8-f897-4347-8139-0c97aeee62f8)">
   </div>
+  ![snake gif](https://github.com/Johnny_dilulia/Johnny_dilulia/blob/output/github-contribution-grid-snake.svg)
 
  
 
