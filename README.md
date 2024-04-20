@@ -13,6 +13,7 @@
 </div><br><br>
 
 <div  align="center" ><img align="center" alt="dilukila" height="300" width="500" src="https://github.com/Johnnydilukila/Johnnydilukila/assets/163668319/7563cad6-1e9c-41cd-93b6-2004e6f03b8f">
+   ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
   </div><br><br><br><br>
   <h2>Formação</h2>
   <p>✔ Ensino médio concluido. <br>
@@ -26,7 +27,7 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://github.com/Johnnydilukila/Johnnydilukila/assets/163668319/900c93f5-fe7c-4a21-89ad-430968659285)">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://github.com/Johnnydilukila/Johnnydilukila/assets/163668319/35c4adc8-f897-4347-8139-0c97aeee62f8)">
   </div>
- ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
