@@ -1,5 +1,5 @@
 <h1 align="center">Hello World🖐️</h1>
-<h2 align="center">Eu Sou O Johnny Dilukila ,desenvolvedor de contéudo HTML e CSS 5 </h2>
+<h2 align="center">Eu Sou O Johnny Dilukila ,desenvolvedor de contéudo HTML, CSS, e Javacrispit  </h2>
 <p>Mais Sobre Mim: Sou Desenvolvedor, apaixonado por tecnologia, com experiência no desenvolvimento de plataformas Web utilizando as tecnologias atuais do mercado para construção de sistemas Web responsivos, modernos e adaptáveis (Conhecimentos em: HTML5,CSS, ).</p> <br>
 
 <div align="center" style="display: inline_block"><br>
@@ -12,13 +12,15 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div><br><br>
 
-<div  align="center" ><img align="center" alt="dilukila" height="300" width="500" src="https://github.com/Johnnydilukila/Johnnydilukila/assets/163668319/7563cad6-1e9c-41cd-93b6-2004e6f03b8f">
+<div  align="center" ><img align="center" alt="dilukila" height="300" width="600" src="https://github.com/Johnnydilukila/Johnnydilukila/assets/163668319/c328eef7-608d-42c6-8e6f-91cf8f550fdf">
   </div><br><br><br><br>
   <h2>Formação</h2>
   <p>✔ Ensino médio concluido. <br>
 ✔Escola: Complexo escolar privado multi-aprendizagem. <br>
-✔Estudante do ensino médio. <br>
 ✔Curso: Informática. <br></p>
+<h2>Idioma Falado
+✔ Portugues
+✔ Inglês
 <h3>Conctatos</h3>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/Johnnydilukila/Johnnydilukila/assets/163668319/85011942-a486-481b-84e7-bf72afb5e9f6)">
