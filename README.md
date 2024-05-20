@@ -1,6 +1,6 @@
 <h1 align="center">Hello World🖐️</h1>
 <h2 align="center">Eu Sou O Johnny Dilukila ,desenvolvedor de contéudo HTML, CSS, e Javacrispit  </h2>
-<p>Mais Sobre Mim: Sou Desenvolvedor, apaixonado por tecnologia, com experiência no desenvolvimento de plataformas Web utilizando as tecnologias atuais do mercado para construção de sistemas Web responsivos, modernos e adaptáveis (Conhecimentos em: HTML5,CSS, ).</p> <br>
+<p>Mais Sobre Mim: Sou Desenvolvedor, apaixonado por tecnologia, com experiência no desenvolvimento de plataformas Web utilizando as tecnologias atuais do mercado para construção de sistemas Web responsivos, modernos e adaptáveis (Conhecimentos em: HTML,CSS, Javascript ).</p> <br>
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div><br><br>
 
-<div  align="center" ><img align="center" alt="dilukila" height="300" width="600" src="https://github.com/Johnnydilukila/Johnnydilukila/assets/163668319/c328eef7-608d-42c6-8e6f-91cf8f550fdf">
+<div  align="center" ><img align="center" alt="dilukila" height="300" width="600" src="https://github.com/Johnnydilukila/Johnnydilukila/assets/163668319/a4aea5ac-1f46-41e3-9c42-ddc7bfcf50cd">
   </div><br><br><br><br>
   <h2>Formação</h2>
   <p>✔ Ensino médio concluido. <br>
