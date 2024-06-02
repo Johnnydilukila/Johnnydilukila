@@ -18,8 +18,8 @@
   <p>✔ Ensino médio concluido. <br>
 ✔Escola: Complexo escolar privado multi-aprendizagem. <br>
 ✔Curso: Informática. <br></p>
-<h2>Idioma Falado
-✔ Portugues
+<h2>Idioma Falado</h2> <br>
+✔ Portugues <br>
 ✔ Inglês
 <h3>Conctatos</h3>
 <div align="center" style="display: inline_block"><br>
@@ -27,7 +27,6 @@
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://github.com/Johnnydilukila/Johnnydilukila/assets/163668319/7886135a-39f3-4cad-8163-cba76e3b02b8)">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://github.com/Johnnydilukila/Johnnydilukila/assets/163668319/900c93f5-fe7c-4a21-89ad-430968659285)">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://github.com/Johnnydilukila/Johnnydilukila/assets/163668319/35c4adc8-f897-4347-8139-0c97aeee62f8)">
-   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://github.com/Johnnydilukila/Johnnydilukila/assets/163668319/35c4adc8-f897-4347-8139-0c97aeee62f8)">
    <img align="center" alt="Rafa-HTML" height="40" width="50" src="https://github.com/Johnnydilukila/Johnnydilukila/assets/163668319/dd90cff7-4767-4c48-b228-5388a6d2bdfe")>
   </div>
 
